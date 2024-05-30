@@ -1,0 +1,9 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\bin\Debug\vlc_cmd_arduino.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\obj\Debug\vlc_cmd_arduino.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\obj\Debug\vlc_cmd_arduino.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\obj\Debug\vlc_cmd_arduino.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\obj\Debug\vlc_cmd_arduino.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\bin\Debug\vlc_cmd_arduino.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\bin\Debug\vlc_cmd_arduino.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\obj\Debug\vlc_cmd_arduino.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\vlc_cmd_arduino\vlc_cmd_arduino\obj\Debug\vlc_cmd_arduino.pdb
